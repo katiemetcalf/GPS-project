@@ -5,7 +5,7 @@ import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.PrintStream;
 
-public class satelliteMetcalf {
+public class satellite {
     public satellite() {
     }
 
